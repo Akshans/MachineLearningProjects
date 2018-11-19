@@ -11,4 +11,4 @@ EmployeeRetentionClassificationProject: The goal of this was to build a model th
 Developing this system was a huge learning experience because I implemented a systematic way of approaching most machine learning problems. I organize the project into modules consisting of data exploration, data cleaning, feature engineering, and model training/building. After completing these projects, I developed a real-world understanding of solving machine learning problems. This includes the importance of developing good data and coding a framework for preventing overfit models (model pipelines that get cross validated).
 
 
-Implementation details are in the folders. :)
+Implementation details are in the folders. 
