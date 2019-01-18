@@ -1,6 +1,6 @@
 TASK 2 FOLLOW ME README
 
-Instructions: Input data by modifying the input.txt file. Make sure that you leave no spaces after writing each line. 
+Instructions: Read the AbletonProblemStatemnt.pdf to understand the context. Then, input data by modifying the input.txt file. Make sure that you leave no spaces after writing each line. 
 The program can handle duplicate clip names and tick input commands like "tick 4 0.5" 
 Output is printed on console. 
 
