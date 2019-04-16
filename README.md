@@ -12,6 +12,9 @@ Developing this system was a huge learning experience because I implemented a sy
 
 Implementation details are in the folders. 
 
+Data Cleaning:
+CountryQuotaDataCleaning: Data cleaning code I wrote for gender quota info by country datasets. For each numerical feature, I had to find the average value for each country and the count of a country's occurence in the dataset (I did this through 2 groupby country aggregations in Python). I then had to format the data based off another country dataset, which had more countries than the dataset I performed aggregations on. I formatted the data via a left outer join on the 2nd dataset's "country" feature. I then saved the dataset as an excel sheet. 
+
 Software Dev:
 
 Ableton: The goal was to create a simplified version of this feature https://www.ableton.com/en/manual/launching-clips/#13-6-follow-actions
